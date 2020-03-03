@@ -5,7 +5,7 @@ Link to game description: https://en.wikipedia.org/wiki/Pig_(dice_game)
 
 
 Screen shot of the display:
-![Screen shot of the website](screen shot.png)
+![Screen shot of the website](display.png)
 
 Note that this game was forked from jonasschmedtmann/complete-javascript-course.
 
